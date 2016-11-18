@@ -11,8 +11,8 @@
 ```
 sudo apt-get update
 sudo apt-get install build-essential \
-             libnl-3-200 libnl-genl-3-200 \
-             libnl-3-dev libnl-genl-3-dev
+                     libnl-3-200 libnl-genl-3-200 \
+                     libnl-3-dev libnl-genl-3-dev
 ```
 
 2) Скачиваем файлы данного репозитория. Можно скачать архивом с помощью браузера (кнопка *Clone or download*); или, если установлен *git*, скачиваем, выполнив команду:
